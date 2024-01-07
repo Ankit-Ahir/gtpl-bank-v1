@@ -1,0 +1,9 @@
+com\guru99\demo\gtpl_bank\test_cases\TC_AddCustomerTest_003.class
+com\guru99\demo\gtpl_bank\utilities\ReadConfig.class
+com\guru99\demo\gtpl_bank\test_cases\TC_LoginTest_001.class
+com\guru99\demo\gtpl_bank\utilities\XLUtils.class
+com\guru99\demo\gtpl_bank\page_objects\LoginPage.class
+com\guru99\demo\gtpl_bank\page_objects\AddCustomerPage.class
+com\guru99\demo\gtpl_bank\test_cases\BaseClass.class
+com\guru99\demo\gtpl_bank\test_cases\TC_LoginDDT_002.class
+com\guru99\demo\gtpl_bank\utilities\Reporting.class

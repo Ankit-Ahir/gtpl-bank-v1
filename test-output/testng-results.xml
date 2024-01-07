@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-07T12:43:42 IST" name="gtpl-bank-v1" finished-at="2024-01-07T12:44:14 IST" duration-ms="32130">
+    <groups>
+    </groups>
+    <test started-at="2024-01-07T12:43:42 IST" name="BankingApp Test" finished-at="2024-01-07T12:44:14 IST" duration-ms="32130">
+      <class name="com.guru99.demo.gtpl_bank.test_cases.TC_LoginTest_001">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.guru99.demo.gtpl_bank.test_cases.TC_LoginTest_001@459e9125]" started-at="2024-01-07T12:43:42 IST" name="setup" finished-at="2024-01-07T12:43:48 IST" duration-ms="5529" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginTest()[pri:0, instance:com.guru99.demo.gtpl_bank.test_cases.TC_LoginTest_001@459e9125]" started-at="2024-01-07T12:43:48 IST" name="loginTest" finished-at="2024-01-07T12:43:51 IST" duration-ms="2662" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.guru99.demo.gtpl_bank.test_cases.TC_LoginTest_001@459e9125]" started-at="2024-01-07T12:43:51 IST" name="tearDown" finished-at="2024-01-07T12:43:51 IST" duration-ms="229" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.guru99.demo.gtpl_bank.test_cases.TC_LoginTest_001 -->
+      <class name="com.guru99.demo.gtpl_bank.test_cases.TC_AddCustomerTest_003">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.guru99.demo.gtpl_bank.test_cases.TC_AddCustomerTest_003@7b2bbc3]" started-at="2024-01-07T12:43:51 IST" name="setup" finished-at="2024-01-07T12:43:58 IST" duration-ms="6767" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="addNewCustomer()[pri:0, instance:com.guru99.demo.gtpl_bank.test_cases.TC_AddCustomerTest_003@7b2bbc3]" started-at="2024-01-07T12:43:58 IST" name="addNewCustomer" finished-at="2024-01-07T12:44:14 IST" duration-ms="16479" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewCustomer -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.guru99.demo.gtpl_bank.test_cases.TC_AddCustomerTest_003@7b2bbc3]" started-at="2024-01-07T12:44:14 IST" name="tearDown" finished-at="2024-01-07T12:44:14 IST" duration-ms="253" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.guru99.demo.gtpl_bank.test_cases.TC_AddCustomerTest_003 -->
+    </test> <!-- BankingApp Test -->
+  </suite> <!-- gtpl-bank-v1 -->
+</testng-results>

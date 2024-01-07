@@ -1,0 +1,246 @@
+2024-01-07 10:54:40,763 - gtpl-bank-v1 -INFO - url is opened
+2024-01-07 10:54:40,909 - gtpl-bank-v1 -INFO - entered username
+2024-01-07 10:54:40,983 - gtpl-bank-v1 -INFO - entered password
+2024-01-07 10:54:41,912 - gtpl-bank-v1 -INFO - click on submit button
+2024-01-07 10:54:41,912 - gtpl-bank-v1 -INFO - logged into system
+2024-01-07 10:54:42,146 - gtpl-bank-v1 -INFO - screenshot captured
+2024-01-07 10:54:45,701 - gtpl-bank-v1 -INFO - url is opened
+2024-01-07 10:54:46,746 - gtpl-bank-v1 -INFO - entered username
+2024-01-07 10:54:46,824 - gtpl-bank-v1 -INFO - entered password
+2024-01-07 10:54:47,756 - gtpl-bank-v1 -INFO - click on submit button
+2024-01-07 10:54:50,792 - gtpl-bank-v1 -INFO - Successfully Logged In
+2024-01-07 10:54:55,763 - gtpl-bank-v1 -INFO - entered username
+2024-01-07 10:54:55,941 - gtpl-bank-v1 -INFO - entered password
+2024-01-07 10:54:56,298 - gtpl-bank-v1 -INFO - click on submit button
+2024-01-07 10:55:00,348 - gtpl-bank-v1 -WARN - login failed
+2024-01-07 10:55:00,427 - gtpl-bank-v1 -INFO - entered username
+2024-01-07 10:55:00,557 - gtpl-bank-v1 -INFO - entered password
+2024-01-07 10:55:00,897 - gtpl-bank-v1 -INFO - click on submit button
+2024-01-07 10:55:05,151 - gtpl-bank-v1 -WARN - login failed
+2024-01-07 10:55:05,230 - gtpl-bank-v1 -INFO - entered username
+2024-01-07 10:55:05,419 - gtpl-bank-v1 -INFO - entered password
+2024-01-07 10:55:05,996 - gtpl-bank-v1 -INFO - click on submit button
+2024-01-07 10:55:09,023 - gtpl-bank-v1 -INFO - Successfully Logged In
+2024-01-07 10:55:14,167 - gtpl-bank-v1 -INFO - entered username
+2024-01-07 10:55:14,285 - gtpl-bank-v1 -INFO - entered password
+2024-01-07 10:55:14,716 - gtpl-bank-v1 -INFO - click on submit button
+2024-01-07 10:55:18,860 - gtpl-bank-v1 -WARN - login failed
+2024-01-07 10:55:21,928 - gtpl-bank-v1 -INFO - url is opened
+2024-01-07 10:55:22,032 - gtpl-bank-v1 -INFO - entered username
+2024-01-07 10:55:22,111 - gtpl-bank-v1 -INFO - entered password
+2024-01-07 10:55:23,097 - gtpl-bank-v1 -INFO - click on submit button
+2024-01-07 10:55:23,098 - gtpl-bank-v1 -INFO - logged into system
+2024-01-07 10:55:37,023 - gtpl-bank-v1 -INFO - captured customer details
+2024-01-07 10:55:37,024 - gtpl-bank-v1 -INFO - click on submit button
+2024-01-07 10:55:37,024 - gtpl-bank-v1 -INFO - validation started....
+2024-01-07 10:55:40,045 - gtpl-bank-v1 -INFO - addNewCustomer test pass
+2024-01-07 10:59:33,152 - gtpl-bank-v1 -INFO - url is opened
+2024-01-07 10:59:33,334 - gtpl-bank-v1 -INFO - entered username
+2024-01-07 10:59:33,413 - gtpl-bank-v1 -INFO - entered password
+2024-01-07 10:59:34,407 - gtpl-bank-v1 -INFO - click on submit button
+2024-01-07 10:59:34,409 - gtpl-bank-v1 -INFO - logged into system
+2024-01-07 10:59:34,710 - gtpl-bank-v1 -INFO - screenshot captured
+2024-01-07 10:59:38,375 - gtpl-bank-v1 -INFO - url is opened
+2024-01-07 10:59:39,275 - gtpl-bank-v1 -INFO - entered username
+2024-01-07 10:59:39,346 - gtpl-bank-v1 -INFO - entered password
+2024-01-07 10:59:40,320 - gtpl-bank-v1 -INFO - click on submit button
+2024-01-07 10:59:43,351 - gtpl-bank-v1 -INFO - Successfully Logged In
+2024-01-07 10:59:48,255 - gtpl-bank-v1 -INFO - entered username
+2024-01-07 10:59:48,420 - gtpl-bank-v1 -INFO - entered password
+2024-01-07 10:59:48,862 - gtpl-bank-v1 -INFO - click on submit button
+2024-01-07 10:59:53,028 - gtpl-bank-v1 -WARN - login failed
+2024-01-07 10:59:53,097 - gtpl-bank-v1 -INFO - entered username
+2024-01-07 10:59:53,161 - gtpl-bank-v1 -INFO - entered password
+2024-01-07 10:59:53,517 - gtpl-bank-v1 -INFO - click on submit button
+2024-01-07 10:59:57,598 - gtpl-bank-v1 -WARN - login failed
+2024-01-07 10:59:57,666 - gtpl-bank-v1 -INFO - entered username
+2024-01-07 10:59:57,779 - gtpl-bank-v1 -INFO - entered password
+2024-01-07 10:59:58,230 - gtpl-bank-v1 -INFO - click on submit button
+2024-01-07 11:00:01,254 - gtpl-bank-v1 -INFO - Successfully Logged In
+2024-01-07 11:00:06,163 - gtpl-bank-v1 -INFO - entered username
+2024-01-07 11:00:06,284 - gtpl-bank-v1 -INFO - entered password
+2024-01-07 11:00:06,744 - gtpl-bank-v1 -INFO - click on submit button
+2024-01-07 11:00:10,828 - gtpl-bank-v1 -WARN - login failed
+2024-01-07 11:00:14,832 - gtpl-bank-v1 -INFO - url is opened
+2024-01-07 11:00:14,939 - gtpl-bank-v1 -INFO - entered username
+2024-01-07 11:00:15,113 - gtpl-bank-v1 -INFO - entered password
+2024-01-07 11:00:16,134 - gtpl-bank-v1 -INFO - click on submit button
+2024-01-07 11:00:16,135 - gtpl-bank-v1 -INFO - logged into system
+2024-01-07 11:00:30,090 - gtpl-bank-v1 -INFO - captured customer details
+2024-01-07 11:00:30,090 - gtpl-bank-v1 -INFO - click on submit button
+2024-01-07 11:00:30,090 - gtpl-bank-v1 -INFO - validation started....
+2024-01-07 11:00:33,103 - gtpl-bank-v1 -INFO - addNewCustomer test pass
+2024-01-07 11:28:12,361 - gtpl-bank-v1 -INFO - url is opened
+2024-01-07 11:28:12,506 - gtpl-bank-v1 -INFO - entered username
+2024-01-07 11:28:12,578 - gtpl-bank-v1 -INFO - entered password
+2024-01-07 11:28:13,554 - gtpl-bank-v1 -INFO - click on submit button
+2024-01-07 11:28:13,555 - gtpl-bank-v1 -INFO - logged into system
+2024-01-07 11:28:13,810 - gtpl-bank-v1 -INFO - screenshot captured
+2024-01-07 11:28:17,757 - gtpl-bank-v1 -INFO - url is opened
+2024-01-07 11:28:18,907 - gtpl-bank-v1 -INFO - entered username
+2024-01-07 11:28:18,980 - gtpl-bank-v1 -INFO - entered password
+2024-01-07 11:28:19,988 - gtpl-bank-v1 -INFO - click on submit button
+2024-01-07 11:28:23,020 - gtpl-bank-v1 -INFO - Successfully Logged In
+2024-01-07 11:28:28,315 - gtpl-bank-v1 -INFO - entered username
+2024-01-07 11:28:28,430 - gtpl-bank-v1 -INFO - entered password
+2024-01-07 11:28:28,811 - gtpl-bank-v1 -INFO - click on submit button
+2024-01-07 11:28:33,059 - gtpl-bank-v1 -WARN - login failed
+2024-01-07 11:28:33,134 - gtpl-bank-v1 -INFO - entered username
+2024-01-07 11:28:33,370 - gtpl-bank-v1 -INFO - entered password
+2024-01-07 11:28:33,727 - gtpl-bank-v1 -INFO - click on submit button
+2024-01-07 11:28:38,116 - gtpl-bank-v1 -WARN - login failed
+2024-01-07 11:28:38,182 - gtpl-bank-v1 -INFO - entered username
+2024-01-07 11:28:38,300 - gtpl-bank-v1 -INFO - entered password
+2024-01-07 11:28:38,938 - gtpl-bank-v1 -INFO - click on submit button
+2024-01-07 11:28:41,950 - gtpl-bank-v1 -INFO - Successfully Logged In
+2024-01-07 11:28:47,045 - gtpl-bank-v1 -INFO - entered username
+2024-01-07 11:28:47,177 - gtpl-bank-v1 -INFO - entered password
+2024-01-07 11:28:47,564 - gtpl-bank-v1 -INFO - click on submit button
+2024-01-07 11:28:51,762 - gtpl-bank-v1 -WARN - login failed
+2024-01-07 11:28:56,188 - gtpl-bank-v1 -INFO - url is opened
+2024-01-07 11:28:56,297 - gtpl-bank-v1 -INFO - entered username
+2024-01-07 11:28:56,471 - gtpl-bank-v1 -INFO - entered password
+2024-01-07 11:28:57,518 - gtpl-bank-v1 -INFO - click on submit button
+2024-01-07 11:28:57,518 - gtpl-bank-v1 -INFO - logged into system
+2024-01-07 11:29:10,435 - gtpl-bank-v1 -INFO - captured customer details
+2024-01-07 11:29:10,436 - gtpl-bank-v1 -INFO - click on submit button
+2024-01-07 11:29:10,436 - gtpl-bank-v1 -INFO - validation started....
+2024-01-07 11:29:13,460 - gtpl-bank-v1 -INFO - addNewCustomer test pass
+2024-01-07 12:28:02,243 - gtpl-bank-v1 -INFO - url is opened
+2024-01-07 12:28:02,426 - gtpl-bank-v1 -INFO - entered username
+2024-01-07 12:28:02,508 - gtpl-bank-v1 -INFO - entered password
+2024-01-07 12:28:03,625 - gtpl-bank-v1 -INFO - click on submit button
+2024-01-07 12:28:03,627 - gtpl-bank-v1 -INFO - logged into system
+2024-01-07 12:28:03,931 - gtpl-bank-v1 -INFO - screenshot captured
+2024-01-07 12:28:07,576 - gtpl-bank-v1 -INFO - url is opened
+2024-01-07 12:28:08,524 - gtpl-bank-v1 -INFO - entered username
+2024-01-07 12:28:08,592 - gtpl-bank-v1 -INFO - entered password
+2024-01-07 12:28:09,602 - gtpl-bank-v1 -INFO - click on submit button
+2024-01-07 12:28:12,622 - gtpl-bank-v1 -INFO - Successfully Logged In
+2024-01-07 12:28:17,592 - gtpl-bank-v1 -INFO - entered username
+2024-01-07 12:28:17,719 - gtpl-bank-v1 -INFO - entered password
+2024-01-07 12:28:18,088 - gtpl-bank-v1 -INFO - click on submit button
+2024-01-07 12:28:22,325 - gtpl-bank-v1 -WARN - login failed
+2024-01-07 12:28:22,392 - gtpl-bank-v1 -INFO - entered username
+2024-01-07 12:28:22,511 - gtpl-bank-v1 -INFO - entered password
+2024-01-07 12:28:22,865 - gtpl-bank-v1 -INFO - click on submit button
+2024-01-07 12:28:26,970 - gtpl-bank-v1 -WARN - login failed
+2024-01-07 12:28:27,039 - gtpl-bank-v1 -INFO - entered username
+2024-01-07 12:28:27,153 - gtpl-bank-v1 -INFO - entered password
+2024-01-07 12:28:27,635 - gtpl-bank-v1 -INFO - click on submit button
+2024-01-07 12:28:30,649 - gtpl-bank-v1 -INFO - Successfully Logged In
+2024-01-07 12:28:35,622 - gtpl-bank-v1 -INFO - entered username
+2024-01-07 12:28:35,754 - gtpl-bank-v1 -INFO - entered password
+2024-01-07 12:28:36,107 - gtpl-bank-v1 -INFO - click on submit button
+2024-01-07 12:28:40,411 - gtpl-bank-v1 -WARN - login failed
+2024-01-07 12:28:44,679 - gtpl-bank-v1 -INFO - url is opened
+2024-01-07 12:28:44,781 - gtpl-bank-v1 -INFO - entered username
+2024-01-07 12:28:44,905 - gtpl-bank-v1 -INFO - entered password
+2024-01-07 12:28:45,895 - gtpl-bank-v1 -INFO - click on submit button
+2024-01-07 12:28:45,895 - gtpl-bank-v1 -INFO - logged into system
+2024-01-07 12:28:58,918 - gtpl-bank-v1 -INFO - captured customer details
+2024-01-07 12:28:58,919 - gtpl-bank-v1 -INFO - click on submit button
+2024-01-07 12:28:58,919 - gtpl-bank-v1 -INFO - validation started....
+2024-01-07 12:29:01,941 - gtpl-bank-v1 -INFO - addNewCustomer test pass
+2024-01-07 12:30:49,859 - gtpl-bank-v1 -INFO - url is opened
+2024-01-07 12:30:49,982 - gtpl-bank-v1 -INFO - entered username
+2024-01-07 12:30:50,053 - gtpl-bank-v1 -INFO - entered password
+2024-01-07 12:30:51,051 - gtpl-bank-v1 -INFO - click on submit button
+2024-01-07 12:30:51,051 - gtpl-bank-v1 -INFO - logged into system
+2024-01-07 12:30:51,302 - gtpl-bank-v1 -INFO - screenshot captured
+2024-01-07 12:30:55,661 - gtpl-bank-v1 -INFO - url is opened
+2024-01-07 12:30:56,558 - gtpl-bank-v1 -INFO - entered username
+2024-01-07 12:30:56,629 - gtpl-bank-v1 -INFO - entered password
+2024-01-07 12:30:57,657 - gtpl-bank-v1 -INFO - click on submit button
+2024-01-07 12:31:00,683 - gtpl-bank-v1 -INFO - Successfully Logged In
+2024-01-07 12:31:06,172 - gtpl-bank-v1 -INFO - entered username
+2024-01-07 12:31:06,278 - gtpl-bank-v1 -INFO - entered password
+2024-01-07 12:31:06,633 - gtpl-bank-v1 -INFO - click on submit button
+2024-01-07 12:31:10,929 - gtpl-bank-v1 -WARN - login failed
+2024-01-07 12:31:10,995 - gtpl-bank-v1 -INFO - entered username
+2024-01-07 12:31:11,077 - gtpl-bank-v1 -INFO - entered password
+2024-01-07 12:31:11,449 - gtpl-bank-v1 -INFO - click on submit button
+2024-01-07 12:31:16,642 - gtpl-bank-v1 -WARN - login failed
+2024-01-07 12:31:16,705 - gtpl-bank-v1 -INFO - entered username
+2024-01-07 12:31:16,790 - gtpl-bank-v1 -INFO - entered password
+2024-01-07 12:31:17,544 - gtpl-bank-v1 -INFO - click on submit button
+2024-01-07 12:31:20,561 - gtpl-bank-v1 -INFO - Successfully Logged In
+2024-01-07 12:31:26,582 - gtpl-bank-v1 -INFO - entered username
+2024-01-07 12:31:26,673 - gtpl-bank-v1 -INFO - entered password
+2024-01-07 12:31:27,065 - gtpl-bank-v1 -INFO - click on submit button
+2024-01-07 12:31:31,235 - gtpl-bank-v1 -WARN - login failed
+2024-01-07 12:31:37,892 - gtpl-bank-v1 -INFO - url is opened
+2024-01-07 12:31:37,992 - gtpl-bank-v1 -INFO - entered username
+2024-01-07 12:31:38,120 - gtpl-bank-v1 -INFO - entered password
+2024-01-07 12:31:39,319 - gtpl-bank-v1 -INFO - click on submit button
+2024-01-07 12:31:39,320 - gtpl-bank-v1 -INFO - logged into system
+2024-01-07 12:31:53,245 - gtpl-bank-v1 -INFO - captured customer details
+2024-01-07 12:31:53,246 - gtpl-bank-v1 -INFO - click on submit button
+2024-01-07 12:31:53,246 - gtpl-bank-v1 -INFO - validation started....
+2024-01-07 12:31:56,271 - gtpl-bank-v1 -INFO - addNewCustomer test pass
+2024-01-07 12:40:22,694 - gtpl-bank-v1 -INFO - url is opened
+2024-01-07 12:40:22,861 - gtpl-bank-v1 -INFO - entered username
+2024-01-07 12:40:22,940 - gtpl-bank-v1 -INFO - entered password
+2024-01-07 12:40:24,383 - gtpl-bank-v1 -INFO - click on submit button
+2024-01-07 12:40:24,383 - gtpl-bank-v1 -INFO - logged into system
+2024-01-07 12:40:24,395 - gtpl-bank-v1 -INFO - loginTest passed
+2024-01-07 12:40:32,072 - gtpl-bank-v1 -INFO - url is opened
+2024-01-07 12:40:33,268 - gtpl-bank-v1 -INFO - entered username
+2024-01-07 12:40:33,331 - gtpl-bank-v1 -INFO - entered password
+2024-01-07 12:40:34,511 - gtpl-bank-v1 -INFO - click on submit button
+2024-01-07 12:40:37,533 - gtpl-bank-v1 -INFO - Successfully Logged In
+2024-01-07 12:40:42,983 - gtpl-bank-v1 -INFO - entered username
+2024-01-07 12:40:43,177 - gtpl-bank-v1 -INFO - entered password
+2024-01-07 12:40:43,565 - gtpl-bank-v1 -INFO - click on submit button
+2024-01-07 12:40:47,222 - gtpl-bank-v1 -WARN - login failed
+2024-01-07 12:40:47,318 - gtpl-bank-v1 -INFO - entered username
+2024-01-07 12:40:47,441 - gtpl-bank-v1 -INFO - entered password
+2024-01-07 12:40:47,822 - gtpl-bank-v1 -INFO - click on submit button
+2024-01-07 12:40:52,153 - gtpl-bank-v1 -WARN - login failed
+2024-01-07 12:40:52,237 - gtpl-bank-v1 -INFO - entered username
+2024-01-07 12:40:52,370 - gtpl-bank-v1 -INFO - entered password
+2024-01-07 12:40:52,879 - gtpl-bank-v1 -INFO - click on submit button
+2024-01-07 12:40:55,895 - gtpl-bank-v1 -INFO - Successfully Logged In
+2024-01-07 12:41:01,055 - gtpl-bank-v1 -INFO - entered username
+2024-01-07 12:41:01,182 - gtpl-bank-v1 -INFO - entered password
+2024-01-07 12:41:01,592 - gtpl-bank-v1 -INFO - click on submit button
+2024-01-07 12:41:05,778 - gtpl-bank-v1 -WARN - login failed
+2024-01-07 12:41:11,220 - gtpl-bank-v1 -INFO - url is opened
+2024-01-07 12:41:11,341 - gtpl-bank-v1 -INFO - entered username
+2024-01-07 12:41:11,523 - gtpl-bank-v1 -INFO - entered password
+2024-01-07 12:41:13,406 - gtpl-bank-v1 -INFO - click on submit button
+2024-01-07 12:41:13,406 - gtpl-bank-v1 -INFO - logged into system
+2024-01-07 12:41:24,579 - gtpl-bank-v1 -INFO - captured customer details
+2024-01-07 12:41:24,579 - gtpl-bank-v1 -INFO - click on submit button
+2024-01-07 12:41:24,579 - gtpl-bank-v1 -INFO - validation started....
+2024-01-07 12:41:27,614 - gtpl-bank-v1 -INFO - addNewCustomer test pass
+2024-01-07 12:43:48,330 - gtpl-bank-v1 -INFO - url is opened
+2024-01-07 12:43:48,466 - gtpl-bank-v1 -INFO - entered username
+2024-01-07 12:43:48,630 - gtpl-bank-v1 -INFO - entered password
+2024-01-07 12:43:50,976 - gtpl-bank-v1 -INFO - click on submit button
+2024-01-07 12:43:50,977 - gtpl-bank-v1 -INFO - logged into system
+2024-01-07 12:43:51,003 - gtpl-bank-v1 -INFO - loginTest passed
+2024-01-07 12:43:58,012 - gtpl-bank-v1 -INFO - url is opened
+2024-01-07 12:43:58,130 - gtpl-bank-v1 -INFO - entered username
+2024-01-07 12:43:58,210 - gtpl-bank-v1 -INFO - entered password
+2024-01-07 12:43:59,827 - gtpl-bank-v1 -INFO - click on submit button
+2024-01-07 12:43:59,827 - gtpl-bank-v1 -INFO - logged into system
+2024-01-07 12:44:11,474 - gtpl-bank-v1 -INFO - captured customer details
+2024-01-07 12:44:11,475 - gtpl-bank-v1 -INFO - click on submit button
+2024-01-07 12:44:11,475 - gtpl-bank-v1 -INFO - validation started....
+2024-01-07 12:44:14,491 - gtpl-bank-v1 -INFO - addNewCustomer test pass
+2024-01-07 12:47:06,837 - gtpl-bank-v1 -INFO - url is opened
+2024-01-07 12:47:07,061 - gtpl-bank-v1 -INFO - entered username
+2024-01-07 12:47:07,136 - gtpl-bank-v1 -INFO - entered password
+2024-01-07 12:47:08,328 - gtpl-bank-v1 -INFO - click on submit button
+2024-01-07 12:47:08,328 - gtpl-bank-v1 -INFO - logged into system
+2024-01-07 12:47:08,350 - gtpl-bank-v1 -INFO - loginTest passed
+2024-01-07 12:47:14,428 - gtpl-bank-v1 -INFO - url is opened
+2024-01-07 12:47:14,545 - gtpl-bank-v1 -INFO - entered username
+2024-01-07 12:47:14,759 - gtpl-bank-v1 -INFO - entered password
+2024-01-07 12:47:16,649 - gtpl-bank-v1 -INFO - click on submit button
+2024-01-07 12:47:16,649 - gtpl-bank-v1 -INFO - logged into system
+2024-01-07 12:47:28,410 - gtpl-bank-v1 -INFO - captured customer details
+2024-01-07 12:47:28,411 - gtpl-bank-v1 -INFO - click on submit button
+2024-01-07 12:47:28,411 - gtpl-bank-v1 -INFO - validation started....
+2024-01-07 12:47:31,428 - gtpl-bank-v1 -INFO - addNewCustomer test pass
